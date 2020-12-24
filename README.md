@@ -26,3 +26,5 @@ git clone https://github.com/umaumax/unity-editor-extensions
 
 ### externals
 * [アセット参照関係を全部書き出す \- KAYAC engineers' blog]( https://techblog.kayac.com/unity-list-assets-relations )
+* [アセンブリごとのコンパイル時間を計測したり、一定時間を越えたら警告を出したり【Unity】【エディタ拡張】 \- \(:3\[kanのメモ帳\]]( https://kan-kikuchi.hatenablog.com/entry/Assembly_Compile_Time )
+* [【Unity】Missing Script がある Prefab を探し出して、削除をしてくれるツール公開 \- うにてぃブログ]( https://hacchi-man.hatenablog.com/entry/2020/03/12/220000 )
